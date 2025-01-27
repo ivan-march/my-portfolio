@@ -40,7 +40,7 @@
 
 ## Контакты
 - **Email**: [ivanumarch@yandex.ru]
-- **GitHub**: [ваш GitHub](https://github.com/ivan-march)
+- **GitHub**: [GitHub](https://github.com/ivan-march)
 
 ---
 
